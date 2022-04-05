@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cd48d2560b72eea498647775dc626213
+  - enabled: 1
+    path: Assets/Scenes/ChooseLevel.unity
+    guid: 7ac8fa27c79685c4b9d36047a7be978d
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: c59993dcb2af93040a5ed2384953890e
+  - enabled: 1
+    path: Assets/Scenes/FindFiveDifferences.unity
+    guid: 12126e48ce064c64faac4fcbcc7f7d5a
+  - enabled: 1
+    path: Assets/Scenes/Memory.unity
+    guid: ce16c2a528deefa4ab6cfef78b206ee1
+  - enabled: 1
+    path: Assets/Scenes/QuestionAnswer.unity
+    guid: 2f11b9425da4c824d9964e913408464e
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: e62180ee576008542aa00572c8808129
+  - enabled: 1
+    path: Assets/Scenes/Alphabet.unity
+    guid: d749f7e87e4fb914c9c4cf9dd867c28c
+  m_configObjects: {}
